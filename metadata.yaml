@@ -1,0 +1,34 @@
+_repo: Catherine-herself_71786
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hilton, James
+    alias: Trevor, Glen
+    birthdate: 1900
+    deathdate: 1954
+    gutenberg_agent_id: '54898'
+    url: http://www.gutenberg.org/2009/agents/54898
+    wikipedia: https://en.wikipedia.org/wiki/James_Hilton_(novelist)
+description: ''
+gutenberg_issued: '2023-10-03'
+identifiers:
+  gutenberg: '71786'
+language: en
+pgterms:marc904: https://archive.org/details/catherineherself0000jame
+pgterms:marc905: 20230729040927hilton
+pgterms:marc906: '1920'
+pgterms:marc907: UK
+production_note: Laura Natal Rodrigues (Images generously made available by The Internet
+  Archive.)
+publication_note: '  $aLondon :$bT. Fisher Unwin Ltd, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bildungsromans'
+- !lcsh 'English fiction -- 20th century'
+- !lcsh 'Women musicians -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Catherine herself
+url: http://www.gutenberg.org/ebooks/71786
